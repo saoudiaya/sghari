@@ -72,3 +72,18 @@ The reviews and comments section is also highly significant. You will find an av
 When accessing this interface, parents can provide the necessary details to enroll their child in the chosen nursery. Parents are prompted to enter the child's last name, first name, date of birth, and gender. These details allow the nursery to create an individual profile for each child and identify them accurately.
 
 Furthermore, the interface offers the option to upload a picture of the child. Parents can choose to select a photo from their device's gallery or take a new photo using the camera.</p>
+<br>
+
+
+<h2 align="left">9. Chat Interface</h2>
+<p>The chat interface between parents and the nursery facilitates direct and efficient communication between the two parties.</p>
+<br>
+
+
+<h2 align="left">10. Notification Interface</h2>
+<p>The notification interface for updates to the nursery's profile is designed to inform parents of any significant changes or updates made to the nursery's profile. This feature ensures that parents stay informed about relevant changes and new information concerning their child's nursery.</p>
+<br>
+
+
+<h2 align="left">11. Parent Profile Interface</h2>
+<p>The parent profile interface is a dedicated space for parents within the application where they can manage their personal information and access specific features. This interface includes the option to log out (Log Out) and return to the login page (Sign In).</p>
