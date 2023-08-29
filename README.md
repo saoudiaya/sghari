@@ -55,4 +55,20 @@ Furthermore, you have the option to filter search results based on criteria such
 Firstly, you will discover basic information such as the name of the nursery, the price, the category (nursery, kindergarten), the physical address, and the capacity. These details provide you with practical and logistical aspects of the nursery.
 
 Next, a comprehensive description of the nursery is provided. You can learn more about educational values, offered programs, available facilities, and any other specific aspects of the establishment. This helps you understand the operation and educational approach of the nursery.
+
+The reviews and comments section is also highly significant. You will find an average rating of reviews, which provides you with a general indication of parent satisfaction who have used this nursery. Additionally, the number of parents who have left comments is displayed, giving you an idea of community engagement and opinions. There is also a "Read More" button if you wish to read additional comments.
 </p>
+<br>
+
+
+<h2 align="left">7. Activity Interface for a Specific Nursery</h2>
+<p>The activity interface for a specific nursery in our application provides parents with a comprehensive overview of the activities and programs offered by that nursery. When accessing this interface, you can explore a wide range of educational and recreational activities for children.</p>
+<br>
+
+
+<h2 align="left">8. Child Inscription Interface for a Specific Nursery</h2>
+<p>The child inscription interface for a specific nursery in our application simplifies the process of registering key information about the child.
+
+When accessing this interface, parents can provide the necessary details to enroll their child in the chosen nursery. Parents are prompted to enter the child's last name, first name, date of birth, and gender. These details allow the nursery to create an individual profile for each child and identify them accurately.
+
+Furthermore, the interface offers the option to upload a picture of the child. Parents can choose to select a photo from their device's gallery or take a new photo using the camera.</p>
