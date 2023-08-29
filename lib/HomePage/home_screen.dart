@@ -37,7 +37,7 @@ class _HomeScreenState extends State<HomeScreen> {
     const LatLng(36.791999, 10.0204365),
     const LatLng(36.8357017, 10.0976841),
   ];*/
-  static const kGoogleApiKey = 'AIzaSyAczqIgTid1v2MNCPxrV8MSCNGMrLoXsv8';
+  static const kGoogleApiKey = '';
   final Mode _mode = Mode.overlay;
   final GlobalKey<ScaffoldState> homeScaffoldKey = GlobalKey<ScaffoldState>();
   List _listofpos = [];
