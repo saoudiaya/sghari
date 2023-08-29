@@ -87,3 +87,12 @@ Furthermore, the interface offers the option to upload a picture of the child. P
 
 <h2 align="left">11. Parent Profile Interface</h2>
 <p>The parent profile interface is a dedicated space for parents within the application where they can manage their personal information and access specific features. This interface includes the option to log out (Log Out) and return to the login page (Sign In).</p>
+<br>
+
+
+
+
+https://github.com/saoudiaya/sghari/assets/105887782/3eeb5273-643a-47a9-92ab-06aa1c65f55a
+
+
+
